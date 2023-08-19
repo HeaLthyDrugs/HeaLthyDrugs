@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps & Blockchain**
 
-- 👨‍💻 All of my projects are available at [🚧 Under Maintenance](🚧 Under Maintenance)
+- 👨‍💻 All of my projects are available at [🚧 Under Maintenance]
 
 - 💬 Ask me about **App & Web Development**
 
